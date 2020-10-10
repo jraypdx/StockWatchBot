@@ -1,0 +1,8 @@
+SPY - CompareClosesToOpens analysis
+Date		Difference in open from last close
+
+2020-05-22		0
+2020-05-26		6.5100
+2020-05-27		2.9600
+2020-05-28		1.1700
+2020-05-29		-0.5400

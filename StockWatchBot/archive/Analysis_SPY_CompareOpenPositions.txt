@@ -1,0 +1,23 @@
+SPY - CompareOpenPositions analysis
+
+
+Avg last 10
+AVG:1.70119
+Up:5	Down:5
+PCT up:0
+
+Avg last 10
+AVG:0.877595
+Up:10	Down:10
+PCT up:0
+
+Avg last 10
+AVG:1.131038
+Up:28	Down:22
+PCT up:0
+
+Avg last 10
+AVG:0.0668805
+Up:568	Down:429
+PCT up:0
+

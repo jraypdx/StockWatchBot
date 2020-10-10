@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockWatchBot", "StockWatchBot\StockWatchBot.csproj", "{4D52965C-9BCE-428C-9DC9-3162520CC5FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationReceiver", "NotificationReceiver\NotificationReceiver.csproj", "{6AB552C4-483B-4E71-BDF6-7A53EB321947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D52965C-9BCE-428C-9DC9-3162520CC5FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D52965C-9BCE-428C-9DC9-3162520CC5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D52965C-9BCE-428C-9DC9-3162520CC5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D52965C-9BCE-428C-9DC9-3162520CC5FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB552C4-483B-4E71-BDF6-7A53EB321947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB552C4-483B-4E71-BDF6-7A53EB321947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB552C4-483B-4E71-BDF6-7A53EB321947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB552C4-483B-4E71-BDF6-7A53EB321947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C05E9001-E989-402A-ACC7-8DFB42510810}
+	EndGlobalSection
+EndGlobal
